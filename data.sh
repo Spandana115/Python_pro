@@ -16,5 +16,5 @@ cd Medical-Insurance
 pip3 install -r requirements.txt
 
 # Start the Python application
-nohup python3 app.py &
+python3 app.py
 
